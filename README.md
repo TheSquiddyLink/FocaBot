@@ -38,3 +38,4 @@ check the [website](https://www.focabot.xyz/).
 ## Official discord server
 
 If you have problems with the bot or some feature requests, feel free to come to the [official discord server](https://discord.gg/V5drVUS)
+[![Run on Repl.it](https://repl.it/badge/github/FocaBot/FocaBot)](https://repl.it/github/FocaBot/FocaBot)
